@@ -3,9 +3,6 @@
 <h3 align="center">Full-stack software developer from New Jersey</h3>
 
 
-<img align="center" alt="Coding" width="100%" height="200" src="https://media0.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=790b76110c2966d3d3bffe41d531ee9f07f13deb2ba806b3&rid=giphy.gif&ct=g">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericjonesdev&label=Profile%20views&color=0e75b6&style=flat" alt="ericjonesdev" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericjonesdev" alt="ericjonesdev" /></a> </p>
