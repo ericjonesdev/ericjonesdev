@@ -1,5 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM](https://media.licdn.com/dms/image/D4D16AQHTV0nz1Mi9SQ/profile-displaybackgroundimage-shrink_350_1400/0/1675177480808?e=1681344000&v=beta&t=6EHaGgTl-g87jpRiazxuSIPWLnv_PgKAaNt48Z1zVZY)]([[https://rishavchanda.io](https://media.licdn.com/dms/image/D4D16AQHTV0nz1Mi9SQ/profile-displaybackgroundimage-shrink_350_1400/0/1675177480808?e=1681344000&v=beta&t=6EHaGgTl-g87jpRiazxuSIPWLnv_PgKAaNt48Z1zVZY)]
-
 <h1 align="center">Hi 👋, I'm Eric Jones</h1>
 <h3 align="center">Full-stack software developer from New Jersey</h3>
 
