@@ -19,13 +19,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ericjonesdev/ericjonesdev/projects](https://github.com/ericjonesdev/ericjonesdev/projects)
 
-- 📝 I like learning about: [Blockchain technologies](Blockchain technologies)
+- 📝 I like learning about: [Blockchain technologies]
 
 - 💬 Ask me about **HTML5, CSS3, javaScript, Python etc**
 
 - 📫 How to reach me **enjonesnathaniel@gmail.com**
 
-- 📄 Know about my experiences [https://ericjonesdev.github.io/eric-jones-software-developer/assets/cv/CV%20-%20Eric%20Jones.pdf](https://ericjonesdev.github.io/eric-jones-software-developer/assets/cv/CV%20-%20Eric%20Jones.pdf)
+- 📄 Know about my experiences [bit.ly/ericjonesdev](https://ericjonesdev.github.io/eric-jones-software-developer/assets/cv/CV%20-%20Eric%20Jones.pdf)
 
 - ⚡ Fun fact **I love comic books and the MCU!**
 
