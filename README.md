@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric Jones</h1>
 <h3 align="center">Full-stack software developer from New Jersey</h3>
-<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=790b76110c2966d3d3bffe41d531ee9f07f13deb2ba806b3&rid=giphy.gif&ct=g">
+<img alt="Coding" width="400" src="https://media0.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=790b76110c2966d3d3bffe41d531ee9f07f13deb2ba806b3&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericjonesdev&label=Profile%20views&color=0e75b6&style=flat" alt="ericjonesdev" /> </p>
 
