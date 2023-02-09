@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="100%" height="200" src="https://media0.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=790b76110c2966d3d3bffe41d531ee9f07f13deb2ba806b3&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Eric Jones</h1>
 <h3 align="center">Full-stack software developer from New Jersey</h3>
 
