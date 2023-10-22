@@ -21,3 +21,9 @@ I'm a full-stack developer building the future of the world wide web one codeblo
 
 #
 
+### 📊 Stats
+
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjonesdev&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ericjonesdev&theme=gruvbox&border_radius=4.5) -->
+
