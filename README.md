@@ -27,3 +27,7 @@ I'm a full-stack developer building the future of the world wide web one codeblo
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ericjonesdev&theme=gruvbox&border_radius=4.5) -->
 
+<details>
+ <summary><h3>👨‍💻 Eric's Coding Journey</h3></summary>
+   I started my coding journey as an information technology student with a passion to learn everything I could about this programming world - code, unix, linux, theory, all the while, working full time within the satellite communications/ telecommunications industry. Being very hard to juggle a full-time job and study, I somehow managed to graduate with my Masters degree in information systems security, where part of the curriculumn introduced me to the first elements of software development, such as HTML, CSS, Javascript, and SQL databases. Years later, I realize the importance of having mentorship within the field, as, several Udemy courses later, I expanded my knowledge in the field be enrolling in a full-stack software development year-long course via [Code Institute](https://codeinstitute.net/de/). This course gave new life and new confidence for me to pursue my aspirations of software development. With these new tools under my belt, I am hopeful for the future and invite you along on my coding journey. 
+
