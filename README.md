@@ -30,9 +30,7 @@ I'm a full-stack developer building the future of the world wide web one codeblo
 <details>
  <summary><h3>👨‍💻 Eric's Coding Journey</h3></summary>
    I embarked on my coding journey as an information technology student with an insatiable passion to delve into the expansive realm of programming - encompassing code, Unix, Linux, and theoretical concepts. Simultaneously, I undertook the demanding task of working full-time within the satellite communications/telecommunications industry. Balancing a full-time job with my studies was an arduous endeavor, yet I persevered and ultimately earned my Master's degree in information systems security.
-<br>
 During my academic journey, the curriculum introduced me to the fundamental elements of software development, including HTML, CSS, JavaScript, and SQL databases. As time passed, I came to recognize the invaluable role of mentorship in this field. Consequently, I pursued further knowledge by enrolling in various Udemy courses, which further honed my expertise.
-
 My quest for proficiency reached its zenith when I committed to a year-long, full-stack software development course offered by Code Institute. This transformative experience not only breathed new life into my aspirations but also instilled unwavering confidence in my software development capabilities. I am hopeful for the future and invite you along on my coding journey. 
 </details>
 
